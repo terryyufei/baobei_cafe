@@ -1,0 +1,8 @@
+# Ignore Node.js modules and npm package lock
+node_modules/
+
+# Ignore Tailwind CSS config files
+tailwind.config.js
+tailwind-default.config.js
+
+
